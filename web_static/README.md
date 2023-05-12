@@ -1,0 +1,1 @@
+This project is a great way to practice HTML and CSS, as well as recreate a popular website.
