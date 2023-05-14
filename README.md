@@ -53,7 +53,7 @@ EOF  help  quit
 (hbnb)
 $
 ```
-## Testing :straight_ruler:
+## Testing - straight_ruler:
 Unittests for the HolbertonBnB project are defined in the [tests]
 To run the entire test suite simultaneously, execute the following command:
 ```
