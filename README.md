@@ -1,4 +1,5 @@
-https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230514%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230514T151221Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=319784c6a93538a82cdd02646091ae213bfba767fa2eb3de26de40ab0ccb5ec2
+![815046647d23428a14ca](https://github.com/Emiraell/AirBnB_clone/assets/107891531/84e5f2fa-8645-487a-8aed-45fb38583e77)
+
 
 Hbnb is a complete web application, integrating database storage, HTML/CSS templating, front-end and others.
 This team project represents the first step towards building a full web application: the AirBnB clone.</br>
